@@ -1,6 +1,5 @@
 Datanode AMI ID: ami-0c481f8ab5632701f Image Name: Datanode-image
 Namenode AMI ID: ami-0c27685906c173598 Image Name: Namenode-image
-(We have kept visibility to public. The steps followed to create these AMIs are similer to programming assignment.)
 
 Steps to run the program:
 1. Create one instance from Namenode image and 3 instances from Datanode image.
